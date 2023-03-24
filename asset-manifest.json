@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ardeekew13/webportfolio-proj/static/css/main.e3f47677.css",
+    "main.js": "/Ardeekew13/webportfolio-proj/static/js/main.cc3b7147.js",
+    "static/media/Website.png": "/Ardeekew13/webportfolio-proj/static/media/Website.6a49994c278c35d3f73d.png",
+    "static/media/person.png": "/Ardeekew13/webportfolio-proj/static/media/person.76ed29599215fcf11c93.png",
+    "static/media/prototype.png": "/Ardeekew13/webportfolio-proj/static/media/prototype.c962ab522470b7a338a7.png",
+    "static/media/branding.png": "/Ardeekew13/webportfolio-proj/static/media/branding.8997b3cf5baa0e4a9ee0.png",
+    "static/media/Vscode.png": "/Ardeekew13/webportfolio-proj/static/media/Vscode.a03b1b6a68bd90192437.png",
+    "static/media/react.png": "/Ardeekew13/webportfolio-proj/static/media/react.283bf42c605cfc49cf49.png",
+    "static/media/online-learning.png": "/Ardeekew13/webportfolio-proj/static/media/online-learning.e600871225959a5e1d6d.png",
+    "static/media/gmail.png": "/Ardeekew13/webportfolio-proj/static/media/gmail.ec709e54a3ae4846a213.png",
+    "static/media/tailwind.png": "/Ardeekew13/webportfolio-proj/static/media/tailwind.8e81e4c5944b034a5865.png",
+    "static/media/gh.png": "/Ardeekew13/webportfolio-proj/static/media/gh.05525cd9027955dbe054.png",
+    "static/media/js.png": "/Ardeekew13/webportfolio-proj/static/media/js.7f8751632b42a9932c15.png",
+    "static/media/Illustrator.png": "/Ardeekew13/webportfolio-proj/static/media/Illustrator.6aae703108b5d273f006.png",
+    "static/media/Figma.png": "/Ardeekew13/webportfolio-proj/static/media/Figma.46400ab8543f71a3650b.png",
+    "static/media/algorithm.png": "/Ardeekew13/webportfolio-proj/static/media/algorithm.76960a767d3e5064d686.png",
+    "static/media/ux.png": "/Ardeekew13/webportfolio-proj/static/media/ux.ea3ecbf6acbd5e6ad26d.png",
+    "static/media/tg.png": "/Ardeekew13/webportfolio-proj/static/media/tg.ae733ffce6050857fd70.png",
+    "static/media/front.png": "/Ardeekew13/webportfolio-proj/static/media/front.629551cd5d279d991bec.png",
+    "index.html": "/Ardeekew13/webportfolio-proj/index.html",
+    "main.e3f47677.css.map": "/Ardeekew13/webportfolio-proj/static/css/main.e3f47677.css.map",
+    "main.cc3b7147.js.map": "/Ardeekew13/webportfolio-proj/static/js/main.cc3b7147.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f47677.css",
+    "static/js/main.cc3b7147.js"
+  ]
+}
